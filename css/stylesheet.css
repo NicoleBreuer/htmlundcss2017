@@ -40,11 +40,70 @@ font-size: 40px;
 font-weight: lighter;
   }
 
+section{
+  padding-top: 12px;
+  float:left;
+  margin-left: 40px;
+  height: 1200px;
+  }
+  banner1{
+   width: 100%;
+   max-width: 2000px;
+    margin: auto;
+  }
 
+  .eins {
+  	position: relative;
+  	width: 33.33%;
+  	margin: 0;
+  	padding: 0;
+  	float: left;
+  	text-align: center;
+  }
+  .eins img {
+  	max-width: 98%;
+  	vertical-align: bottom;
+  	}
 
+  banner2{
+     width: 100%;
+     max-width: 2000px;
+      margin: auto;
+    }
+    .zwei {
+    	position: relative;
+    	width: 33.33%;
+    	margin: 0;
+    	padding: 0;
+    	float: right;
+      padding-top: 12px;
+    	text-align: center;
+    }
+    .zwei img {
+    	max-width: 98%;
+    	vertical-align: bottom;
+      padding-top: auto;
+    	}
 
-
-
+      banner3{
+         width: 100%;
+         max-width: 2000px;
+          margin: auto;
+        }
+        .drei {
+        	position: relative;
+        	width: 33.33%;
+        	margin: 0;
+        	padding: 0;
+        	float: left;
+          padding-top: 12px;
+        	text-align: center;
+        }
+        .drei img {
+        	max-width: 98%;
+        	vertical-align: bottom;
+          padding-top: auto;
+        	}
 
   footer {
   height: 100px;
